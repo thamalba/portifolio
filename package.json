@@ -5,13 +5,13 @@
   "main": "index.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"next dev"
+    "dev": "next dev"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "^13.2.4",
+    "next": "^13.4.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
